@@ -42,3 +42,4 @@ If you have suggestions to improve an exercise, ideas for a new exercise, or not
 - [02-class-id-selectors](foundations/intro-to-css/02-class-id-selectors/index.html)
 - [03-grouping-selectors](foundations/intro-to-css/03-grouping-selectors/index.html)
 - [04-chaining-selectors](foundations/intro-to-css/04-chaining-selectors/index.html)
+- [05-descendant-combinator](foundations/intro-to-css/05-descendant-combinator/index.html)
