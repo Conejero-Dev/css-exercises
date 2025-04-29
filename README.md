@@ -37,5 +37,5 @@ If you have suggestions to improve an exercise, ideas for a new exercise, or not
 
 ### Foundations
 
-*intro-to-css*
-- [01-css-methods](https://github.com/Conejero-Dev/css-exercises/tree/main/foundations/intro-to-css/01-css-methods)
+**intro-to-css**
+- [01-css-methods](https://github.com/Conejero-Dev/css-exercises/blob/main/foundations/intro-to-css/01-css-methods/index.html)
