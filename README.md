@@ -38,4 +38,4 @@ If you have suggestions to improve an exercise, ideas for a new exercise, or not
 ### Foundations
 
 **intro-to-css**
-- [01-css-methods](https://conejero-dev.github.io/css-exercises/foundations/intro-to-css/01-css-methods/index.html)
+- [01-css-methods](foundations/intro-to-css/01-css-methods/index.html)
