@@ -39,3 +39,4 @@ If you have suggestions to improve an exercise, ideas for a new exercise, or not
 
 **intro-to-css**
 - [01-css-methods](foundations/intro-to-css/01-css-methods/index.html)
+- [02-class-id-selectors](foundations/intro-to-css/02-class-id-selectors/index.html)
