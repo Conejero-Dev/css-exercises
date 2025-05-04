@@ -46,3 +46,6 @@ If you have suggestions to improve an exercise, ideas for a new exercise, or not
 
 **cascade**
 - [01-cascade-fix](foundations/cascade/01-cascade-fix/index.html)
+
+**block-and-inline**
+- [01-margin-and-padding-1](foundations/block-and-inline/01-margin-and-padding-1/index.html)
