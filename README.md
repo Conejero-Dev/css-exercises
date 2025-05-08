@@ -50,3 +50,6 @@ If you have suggestions to improve an exercise, ideas for a new exercise, or not
 **block-and-inline**
 - [01-margin-and-padding-1](foundations/block-and-inline/01-margin-and-padding-1/index.html)
 - [02-margin-and-padding-2](foundations/block-and-inline/02-margin-and-padding-2/index.html)
+
+**flex**
+- [01-flex-center](foundations/flex/01-flex-center/index.html)
