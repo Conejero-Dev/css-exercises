@@ -53,3 +53,4 @@ If you have suggestions to improve an exercise, ideas for a new exercise, or not
 
 **flex**
 - [01-flex-center](foundations/flex/01-flex-center/index.html)
+- [02-flex-header](foundations/flex/02-flex-header/index.html)
