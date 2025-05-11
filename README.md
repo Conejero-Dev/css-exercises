@@ -58,3 +58,4 @@ If you have suggestions to improve an exercise, ideas for a new exercise, or not
 - [04-flex-information](foundations/flex/04-flex-information/index.html)
 - [05-flex-modal](foundations/flex/05-flex-modal/index.html)
 - [06-flex-layout](foundations/flex/06-flex-layout/index.html)
+- [07-flex-layout-2](foundations/flex/07-flex-layout-2/index.html)
