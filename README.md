@@ -59,3 +59,5 @@ If you have suggestions to improve an exercise, ideas for a new exercise, or not
 - [05-flex-modal](foundations/flex/05-flex-modal/index.html)
 - [06-flex-layout](foundations/flex/06-flex-layout/index.html)
 - [07-flex-layout-2](foundations/flex/07-flex-layout-2/index.html)
+👷 __Under Construction__ ⚒️
+- [Project: Landing Page](https://github.com/Conejero-Dev/odin-landing-page)
